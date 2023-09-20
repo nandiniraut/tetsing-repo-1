@@ -2,7 +2,7 @@ name: Build C++
 
 on:
   push:
-    branches: [ feature-branch ]
+    branches: [ testing ]
   pull_request:
     branches: [ testing ]
 
